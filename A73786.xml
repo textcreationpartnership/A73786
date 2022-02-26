@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The food of the soule: against the day of iudgement. By A. D.</title>
+            <author>A. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73786</idno>
+            <idno type="STC">STC 6161</idno>
+            <idno type="STC">ESTC S124430</idno>
+            <idno type="EEBO-CITATION">99898340</idno>
+            <idno type="PROQUEST">99898340</idno>
+            <idno type="VID">173514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2060:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The food of the soule: against the day of iudgement. By A. D.</title>
+                  <author>A. D.</author>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>by M.F. for I. Wright. and C. Wright.</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B C⁴.</note>
+                  <note>The first and last leaf are blank.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Meditations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173514:1"/>
+            <pb facs="tcp:173514:1"/>
+            <pb facs="tcp:173514:2"/>
+            <pb facs="tcp:173514:2"/>
+            <pb facs="tcp:173514:3"/>
+            <pb facs="tcp:173514:3"/>
+            <pb facs="tcp:173514:4"/>
+            <pb facs="tcp:173514:4"/>
+            <pb facs="tcp:173514:5"/>
+            <pb facs="tcp:173514:5"/>
+            <p>
+               <hi>The Food of the Soule:</hi> againſt the day of Iudgement.</p>
+            <p>
+               <hi>By</hi> A. D.</p>
+            <q>
+               <bibl>
+                  <hi>Iohn</hi> 6. 35.</bibl>
+               <p>I am the Bread of life, he that commeth to me ſhall not hunger, and he that beleeueth in me ſhall neuer thirſt.</p>
+            </q>
+            <figure/>
+            <p>
+               <hi>Printed at London by</hi> M. F. <hi>for</hi> I. Wright. <hi>and</hi> C. Wright. 1624.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173514:6"/>
+            <pb facs="tcp:173514:6"/>
+            <head>THE FOOD OF THE SOVLE.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Iohn. Ch.</hi> 6. <hi>
+                     <g ref="char:V">Ʋ</g>erſe</hi> 35.</bibl>
+               <q>I am the bread of Life, hee that commeth to mee ſhall not hun<g ref="char:EOLhyphen"/>ger; and he that beleeueth in me, ſhall neuer thirſt.</q>
+            </epigraph>
+            <p>WHEN our Sauiour Chriſt had performed that heauenly Miracle in féeding fiue thouſand men with fiue loaues and two fiſhes, the people which were ſa<g ref="char:EOLhyphen"/>tisfied with that gratis chéere, did follow him to the City Caperna<g ref="char:EOLhyphen"/>um. But when Ieſus perceiued
+<pb facs="tcp:173514:7"/> their hypocriſie, that they were fleſhly and carnall hearers, and as a good Writer ſaith, <hi>Paraſiti quos platina conglutinat,</hi> hypocrites and belly-gods, whom the trencher doth make friends to Chriſt: like vnto him which when he ſweat ouer his trencher yet cryed out, <hi>O quanta pa<g ref="char:EOLhyphen"/>timur pro amore Chriſti,</hi> Lord what ſuffer wee for the loue of Chriſt! Ieſus therefore reprehendeth theſe men, ſaying, <hi>Verily, verily, I ſay vn<g ref="char:EOLhyphen"/>to you, yee ſeeke me not, becauſe ye ſaw the miracles, but becauſe ye eate of the loaues and were filled.</hi> Yet they obſtinately anſwered him, What miracles haſt thou done? haſt thou commanded the Sun and the Moone to ſtand ſtill, as <hi>Ioſua</hi> did? haſt thou reuiued the widowes ſon, as <hi>Elias</hi> did? haſt thou made yron to ſwimme, as <hi>Eliza</hi> did? haſt thou reuiued the dead bones, as <hi>Ezechiel</hi> did? haſt thou béene in the Whales belly with <hi>Ionas:</hi> or par<g ref="char:EOLhyphen"/>ted the red ſea with <hi>Moſes?</hi> Our Fathers did eate Manna in the
+<pb facs="tcp:173514:7"/> Wilderneſſe, <hi>Moſes</hi> gaue them bread from heauen to eate. But marke I pray you how Ieſus did anſwer them, <hi>Nay,</hi> (ſaith hée) <hi>Mo<g ref="char:EOLhyphen"/>ſes gaue you not bread from heauen, but my Father giueth you the true Bread from Heauen: For the Bread of God is he which commeth down from Heauen, and giueth life vnto the world. Then ſaid they vnto him, Lord euermore giue vs this Bread. And Ieſus ſaid, I am the Bread of life, hee that commeth to mee, ſhall not hunger, and hee that beleeueth in me, ſhall neuer thirſt.</hi>
+            </p>
+            <p>And thus much for the coherence, and occaſion of our Sauior Chriſts words: now particularly as they lie in order: Firſt, who is the Bread? Which is Chriſt, <hi>Perſona loquens,</hi> ſignified in this word, <hi>I.</hi> Secondly, what is this Bread? <hi>It is the bread of life.</hi> Thirdly, the powerfull effi<g ref="char:EOLhyphen"/>cacie, and effect of this bread, decla<g ref="char:EOLhyphen"/>red in theſe words, <hi>He that co<g ref="char:cmbAbbrStroke">̄</g>meth to me ſhall not hunger; and he that beleeueth in me, ſhall neuer thirſt.</hi>
+            </p>
+            <pb facs="tcp:173514:8"/>
+            <p> And firſt, who is this Bread, which is, Chriſt: <hi>I am the liuing Bread which came downe from heauen,</hi> ſaith Chriſt. <hi>Ego ſum panis vitae, &amp; fons aquae viuae.</hi> I am the bread of life, and fountaine of liuing water: <hi>Omnia nobis eſt Chriſt us:</hi> (ſaith <hi>Ambroſe) ſi eſuris, ipſe eſt pa<g ref="char:EOLhyphen"/>nis; ſi ſitis, ipſe eſt fons aquae viuae; ſi cae<g ref="char:EOLhyphen"/>cus es, ipſe eſt lumen; ſi infirmus es, ipſe medicus; ſi mortuus, ipſe vita gratiae &amp; gloriae.</hi> Chriſt is all things to vs: if thou béeſt hungry, he is bread; if thou beeſt thirſty, hee is the foun<g ref="char:EOLhyphen"/>taine of liuing water; if thou beeſt blind, he is the light; he is the health of a feuered ſoule, light of thy life, life of thy deſire, heauen of thy minde, guide to thy wandring féet, ſuccourer in neceſſity, helper in ad<g ref="char:EOLhyphen"/>uerſity: yea, hee is all things to thée: <hi>I am the liuing Bread,</hi> ſaith Chriſt. <hi>The bread which I giue is my fleſh, and the drinke which I giue is my blood: my fleſh is meat indeed, and my blood is drinke in<g ref="char:EOLhyphen"/>deed. Hee that eateth my fleſh and</hi>
+               <pb facs="tcp:173514:8"/> 
+               <hi>drinketh my blood, hath eternall life, and I will raiſe him vp at the latter day.</hi>
+            </p>
+            <p>O bleſſed meat, O celeſtiall food: O heauenly Manna: it far excelleth the Poets Ambroſia: would to God that all of vs daily might eate of this Manna: would to God that all of vs which trauell in the Wilderneſſe of this world, might lodge at ſuch an Inne, where God the Father is the hoſt, the holy Ghoſt, the Hoſteſſe, the Church the Inne, the Croſſe the ſigne, and Chriſt the meat and drinke. <hi>Ariſtotle</hi> muſt dine when it pleaſeth <hi>Philip,</hi> but here thou maiſt haue ſtore of ſpirituall foode for the repaſt of thy ſoule, and take it when it pleaſeth thy ſelfe. Say but thy grace before this bleſſed banquet, and then ſit downe and ſatisfie thy hunger. The more thou eateſt, the more it encreaſeth. like to <hi>Iupiters</hi> Nectar, the more it is drunke of, the more it ouerflow<g ref="char:EOLhyphen"/>eth. Neither néedeſt thou vſe the
+<pb facs="tcp:173514:9"/> counſell of <hi>Lyſander,</hi> which he pre<g ref="char:EOLhyphen"/>ſcribed to his Daughters, to drinke with a drop of wine a ſpoonfull of water. Thou mayeſt drinke as much of this precious wine as thou wilt, neither canſt thou infuſe any mixture of water, but of the water of eternall life. This meat is of the like quality with the ſtone of Thracia, which whoſoeuer findeth, is neuer after troubled, ſo whoſoe<g ref="char:EOLhyphen"/>uer eateth of this meat, is neuer after grieued: labour therefore to get this meat which endureth to euerlaſting life. No water was ſo good as that which came out of the Rock, no meat ſo delicate as Man<g ref="char:EOLhyphen"/>na which came from heauen, no Wine ſo wholſome as that which Chriſt made of water at the mari<g ref="char:EOLhyphen"/>age of Cana, no oyle ſo pretious as that which the Samaritan had, no robe ſo coſtly, as that which the fa<g ref="char:EOLhyphen"/>ther gaue to the prodigall ſonne, no bread, no food, no meat ſo profita<g ref="char:EOLhyphen"/>ble, as this meat of the ſoule which endureth to euerlaſting life. This
+<pb facs="tcp:173514:9"/> meat is water to refreſh vs, and wine to cheare vs, this is bread to ſtrengthen vs, and Manna to nou<g ref="char:EOLhyphen"/>riſh vs, it is a treaſure to inrich vs, and a pearle to adorne vs, it is a fire to purge vs, and ſalt to powder vs, it is a trumpet to call vs, and wiſedome to inſtruct vs, it is a way to direct vs, and life to reuiue vs, it is a Lanterne to guide vs, and a buckler to ſhield vs, it is phy<g ref="char:EOLhyphen"/>ſicke to recure vs, and a ſalue to heale vs: if we haue this meat, this Manna, this bread, we ſhall haue no néed of <hi>Elizeus</hi> to increaſe our oyle, no néed to beg at the gluttons gate, or to ſend vnto <hi>Naball</hi> the churle for food: if wee haue this treaſure, we ſhall not néed to robbe the Egyptians: if wee haue this pearle, we ſhal not néed the gold of Ophir; if we haue this water we néed not draw water at <hi>Iacobs</hi> wel; <hi>Naaman</hi> néeds not waſh his féet 7 times in Iordan, the ſick needs not to goe to the poole of Bethſaida: for this pretious meat, and ineſtimable
+<pb facs="tcp:173514:10"/> Manna will purge vs from the le<g ref="char:EOLhyphen"/>proſie of ſinne: So that wee ſhall loath to drink of the ſlumbring cup of the deuils ſorceries, to be witch vs to ſinne: this bread is <hi>Homers Mol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> &amp; <hi>Plinies Centauria</hi> againſt all luſtfull inchantments: for this bread, this ſpirituall food, will ſo clenſe our minds, and purifie our hearts, that we will alwaies deteſt the eie-pleaſing baits of carnall de<g ref="char:EOLhyphen"/>ſires, and wholly delight our ſelues with this ineſtimable treaſure: carnall voluptuouſneſſe is tranſito<g ref="char:EOLhyphen"/>ry and fading; the minuts that lac<g ref="char:EOLhyphen"/>key at the héeles of time, run not faſter away then doe theſe plea<g ref="char:EOLhyphen"/>ſures: but this ſpirituall food, this bread of life, is not like palate plea<g ref="char:EOLhyphen"/>ſing dainties, whoſe ſugered ſwéet<g ref="char:EOLhyphen"/>neſſe once reliſht is preſently gone; but it yeeldeth the hungry ſoule an euerlaſting fruition of moſt raui<g ref="char:EOLhyphen"/>ſhing ſwéetneſſe: labour therefore for this bread which bringeth to euerlaſting life.</p>
+            <pb facs="tcp:173514:10"/>
+            <p> The Bées doe labour to get a little honey:</p>
+            <p>
+               <hi>Mella ſtipant &amp; dulci diſtendunt nectare cellas.</hi>
+            </p>
+            <p>But this bread is ſwéeter then honey, or the honey-combe. Our forefathers did eate of the Acorns of the Oakes, and thought them pleaſant meat; And we, which by <hi>Ceres</hi> huſwiferie haue learned to bury the reuiuing graine, do thinke that bread moſt delicate food: O fooliſh Caterers, let vs rather learne to bury in our hearts this reuiuing graine, that in this gene<g ref="char:EOLhyphen"/>rall famine of true Chriſtian food, we may with <hi>Ioſeph</hi> prouide abun<g ref="char:EOLhyphen"/>dance of this bread of life, for the benefit of our ſoules: then ſhould wee not haue ſuch ſpirituall penu<g ref="char:EOLhyphen"/>rie, and dearth of religion, if our hearts were made fertill to bring forth the ſéeds of our ſoules nouriſhment and ſuſtenance. La<g ref="char:EOLhyphen"/>bor not therefore for the bread that periſheth but for this bread which remaineth vnto euerlaſting life.</p>
+            <pb facs="tcp:173514:11"/>
+            <p> Ay, but ſome will ſay, where ſhall we finde this ſpirituall food, this bread of life? I tell thée Chriſt is this bread of life. Ay, but hée will perhaps reply: how ſhall I come to Chriſt to get this food? I bid thée goe to the Scriptures, (Chriſts treaſury) where thou ſhalt find this Manna, this bread of life, there is plentifull ſtore, take and ſatisfie thy ſelfe; neither néedeſt thou goe farre to ſéeke it, as <hi>Dauid</hi> did the Arke of GOD, or as <hi>Ioſias</hi> did the booke of the Law; Neither canſt thou deſire with the Glutton, that one from the dead might ariſe to teach thée how to finde this bread of life: for now adayes (thanks be giuen to GOD for it) the diſpen<g ref="char:EOLhyphen"/>cers of this bread of life bee plenti<g ref="char:EOLhyphen"/>full, who may without feare or pe<g ref="char:EOLhyphen"/>ril ſhew thée the compendious way to ſéeke this bread of life. Now <hi>O<g ref="char:EOLhyphen"/>badia</hi> néed not feare Quéene <hi>Ieza<g ref="char:EOLhyphen"/>bel,</hi> to hide a hundred Prophets in a Caue: <hi>Moſes</hi> néed not feare King <hi>Pharaoh,</hi> and ſay, I haue a ſtutte<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:173514:11"/> tongue: <hi>Ieremy</hi> néed not feare the Iewes, and ſay, I am a child: for now the Miniſters of GODS word are maintained, and preſer<g ref="char:EOLhyphen"/>ued, and may fréely without dan<g ref="char:EOLhyphen"/>ger, and boldly without feare, diſ<g ref="char:EOLhyphen"/>pence of this bread of life. Yea and euery one of Chriſts faithfull Chil<g ref="char:EOLhyphen"/>dren, although he be not an head in the myſticall body of Chriſt, or an eye, or a leg, yea, if he be but an ha<g ref="char:cmbAbbrStroke">̄</g>d, yet hée may gather of this bread of life; if hée bée but an eare, he may heare of this bread of life; or a tongue, he may praiſe this bread of life; or a mouth, he may receiue this bread of life. Labor therefore for this bread which endureth to euer<g ref="char:EOLhyphen"/>laſting life: <hi>I am the bread of life:</hi> O Ieſus thou art the bread which giueſt life: Thou art a guide to our wayes, a guardian to our perſons, a Councellor in our doubts, a Com<g ref="char:EOLhyphen"/>forter in miſery, a Patron in ne<g ref="char:EOLhyphen"/>ceſſity, and wilt thou be bread alſo? Thou art our kéeper, our ſhep<g ref="char:EOLhyphen"/>heard, our defender, our Sauiour,
+<pb facs="tcp:173514:12"/> and wilt thou be bread alſo? O Ie<g ref="char:EOLhyphen"/>ſus thou art light vnto our eyes, muſicke to our eares, contentment to our ſoules, &amp; wilt thou be bread alſo? O louing Ieſus, O merciful Redéemer, O bleſſed Emanuel, O Ieſu, we giue thée our bodies, our ſoules, our ſubſtance, our wealth, our honor, our friends, our children, our life, and all that is ours: Ieſus wee are not our owne but thine, claime vs as thy right, kéepe vs as thy charge, loue vs as thy children: Ieſus fight for vs when Sathan commeth, heale vs if he woundeth, reuiue vs if hee killeth, receiue vs if we fly into thy merciful boſome: protect when he approacheth, detect vs when he commeth: Ieſus thou art our food in the day, thou ſhalt alſo be our repoſe in the night: Ie<g ref="char:EOLhyphen"/>ſus make vs pliable to thy will, re<g ref="char:EOLhyphen"/>ſigned wholy to thy pleaſure. Ieſus forſake vs not, leſt we periſh, leaue vs not, leſt we be ouercome: Ieſus direct our intentions, correct our follies, erect our cogitations, protect
+<pb facs="tcp:173514:12"/> our endeauors: Ieſus grant vs <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>row for our ſinnes, feare for thy Iudgements, loue of thy mercies, thankfulneſſe for this bread of life. <hi>I am the Bread of life,</hi> that is, I am the bread of immortall and heauen<g ref="char:EOLhyphen"/>ly life, not of this mortall: and earthly life: for elſe Chriſt might rather haue ſaid, I am the bread of death, and not of life; for this life is a liuing death, and a dying life: But Chriſt is not bread of ſuch a life; But, he is the bread of an im<g ref="char:EOLhyphen"/>mortall, and neuer-fading life.</p>
+            <p>Happy therefore is hée which is at this banquet, and taſteth of this bread of life: Neither is this an imaginarie fruition, or a painted banquet, reſembling the hungry chéere, which the birds had that fed themſelues with <hi>Zeuxis</hi> painted grapes, vntill with picking at ſha<g ref="char:EOLhyphen"/>dowes they waxt ſo leane, that they were glad with <hi>Eſops</hi> Cocke to ſcrape for a barley corne. But with this bread of life thy Soule ſhall bee ſo cheriſhed: with this
+<pb facs="tcp:173514:13"/> Manna thou ſhalt be ſo wonderful<g ref="char:EOLhyphen"/>ly delighted, that euer thou ſhalt loath the fleſh-pots of Egypt. <hi>Hic panis eſt corpus meum.</hi> This bread is my body, and therefore thou canſt not miſlike it. O you Miniſters, the faithfull diſpencers of this hal<g ref="char:EOLhyphen"/>lowed bread of life, féed duely Chriſts flocke with this bread of life. Chriſt ſaid to <hi>Peter, Paſce, paſce, Paſce, <hi>Feed, feed, feed:</hi>
+               </hi> Féed with this bread of life, with your doctrine, with your almes: Féed firſt with this bread of life, for it is the bread of ſaluation: Secondly, féed with your wholſome doctrine, that Chriſts ſhéepe doe not ſurfet with vice, and ſo néed the coroſiue of his correction to amend them. Thirdly, féed with almes: but what ſhall I preſſe you to that? Nay I muſt in conſcience ſpare you, for the caſe now ſo ſtands, that you are liker to liue of almes, then be able to giue almes: and there<g ref="char:EOLhyphen"/>fore till happier times come, wher<g ref="char:EOLhyphen"/>in your diuine function may more
+<pb facs="tcp:173514:13"/> bounteouſly bee rewarded, I will ſpare you for that point, for neceſ<g ref="char:EOLhyphen"/>ſity hath no law. In y<hi rend="sup">e</hi> mean while féed with this bread of life, &amp; ſpend your breath happily in the fires of deuotion crying alarum ſpirituall againſt foule vice, and all wicked<g ref="char:EOLhyphen"/>neſſe: ſo at laſt you hauing not de<g ref="char:EOLhyphen"/>frauded Chriſts children of this bread of life, may haue a moſt boun<g ref="char:EOLhyphen"/>tifull remuneration of your pain<g ref="char:EOLhyphen"/>full labours, and enioy all heauen<g ref="char:EOLhyphen"/>ly happineſſe, and celeſtiall ioyes, taſting this bread of life, which is prepared for all GODS faithfull children: And thus much ſhall ſuf<g ref="char:EOLhyphen"/>fice to haue ſpoken of the firſt par<g ref="char:EOLhyphen"/>cell of my text, <hi>I am the bread of life.</hi>
+            </p>
+            <p>Now it followeth, that I ſhould briefly ſpeake of the powerfull ef<g ref="char:EOLhyphen"/>ficacie, and effect of this bread of life. Which by the tongues of Angels cannot be ſo well declared, as by theſe our Sauiours words, <hi>Hee that commeth to mee ſhall not hunger, and he that beleeueth in me</hi>
+               <pb facs="tcp:173514:14"/> 
+               <hi>ſhall neuer thirſt.</hi> After a man hath taſted of all manner of delicate meats, yea although he hath carou<g ref="char:EOLhyphen"/>ſed new grapes in <hi>Alexanders</hi> cup, and plentifully paid that daily tri<g ref="char:EOLhyphen"/>bute to the ſtomacke, which the law of our nature exacteth, yet that food will not ſatiate him for euer, ſo that he ſhall neuer hunger, or thirſt after. But this bread, this bread of life hath another power, and ef<g ref="char:EOLhyphen"/>fect, for he that eateth of this bread, ſhall neuer hunger, or thirſt more.</p>
+            <p>We reade in the fourth Chapter of <hi>Mathew, That man liueth not by bread onely:</hi> but I ſay, man onely liueth by this bread: for this bread is the bread of heauen, which gi<g ref="char:EOLhyphen"/>ueth life vnto the world. Therefore be carefull to ſéeke for this bread, for Chriſt doth not forbid vs to ſéeke for this bread: hée ſaith in <hi>Ma<g ref="char:EOLhyphen"/>thew</hi> the ſixt Chapter; <hi>Be not care<g ref="char:EOLhyphen"/>full what you ſhal eate, or what you ſhall drinke, behold the fowles of heauen, they ſow not, neither reape, nor cary into their barnes, yet your</hi>
+               <pb facs="tcp:173514:14"/> 
+               <hi>heauenly Father feedeth them; the Lillies doe not labour nor ſpin, yet Salomon in all his glory, was not a<g ref="char:EOLhyphen"/>rayed like one of theſe: therefore take no thought, ſaying. What ſhall we eate, or what ſhall we drinke, or how ſhall we be clothed? but ſeeke yee the Kingdome of Heauen, and all theſe things ſhall bee miniſtred vnto you.</hi> Yet in all theſe exem<g ref="char:EOLhyphen"/>plified admonitions of our Sauiour Chriſt; hée doth not forewarne vs to bee careleſſe for ſéeking of this bread of life: will Chriſt forbid vs to ſéeke himſelfe? Chriſt is this bread of life, féede on his fleſh, and nouriſh your ſoules: he is the oyle, and lampe, with which the fiue Virgins entered into the Bride<g ref="char:EOLhyphen"/>groomes chamber. Hée is the Lord of life, the way of life, the bread of life.</p>
+            <p>Beléeue in this Lord, come vnto this way, eate of this bread, you ſhall neuer hunger, or thirſt after.</p>
+            <p>But ſome man peraduenture may obiect, Can bread extinguiſh
+<pb facs="tcp:173514:15"/> hunger and thirſt? When a man is dry and thirſty, he doth not vſe to eate bread.</p>
+            <p>I anſwer, that the Hebrewes doe vſe this phraſe, <hi>Panem comede<g ref="char:EOLhyphen"/>re, pro coenare,</hi> for to ſup, as Maſter <hi>Caluin</hi> héere well noteth: ſo we ſay in the Lords prayer, <hi>da nobis quoti<g ref="char:EOLhyphen"/>dianum panem,</hi> giue vs our daily bread, ſignifying all neceſſary things belonging to a man: eate of of this bread of life, and you ſhall not néed to ſay, giue vs our dayly bread, for you ſhall neuer hunger, or thirſt after: <hi>He that commeth to mee, ſhall not hunger: <hi>Accedat ad Chriſtum omnis anima:</hi>
+               </hi> let euery Soule come to Chriſt, and he will refreſh it: I will (ſaith he) féed the hungry ſoule, and refreſh all faint hearts. I am the ſtrength of the féeble, the ſuccour of the hungry, a refuge againſt euill weather, a ſha<g ref="char:EOLhyphen"/>dow againſt heat: a continuall feaſt, where all hungry and langui<g ref="char:EOLhyphen"/>ſhing ſoules may ſatisfie them<g ref="char:EOLhyphen"/>ſelues with celeſtiall food. O well
+<pb facs="tcp:173514:15"/> are they, and happy ſhall they bee, which ſit at this heauenly Table, and eate of this bleſſed and ſpiritu<g ref="char:EOLhyphen"/>all meat, the price and redemption of their ſoules. Here is Manna which the children of Iſrael ſhall neuer loath: the wiſe Ethnick mans ſaying vpon a feaſt, here taketh no place: <hi>Prima cratera</hi> (ſaith he) <hi>ad ſitim pertinet, ſecunda ad hilaritatem, tertia ad voluptatem, quarta ad inſa<g ref="char:EOLhyphen"/>niam:</hi> The firſt cup belongeth to thirſt, the ſecond to mirth, the third to pleaſure<g ref="char:punc">▪</g> and the fourth to inſo<g ref="char:EOLhyphen"/>brietie But at this feaſt of the Soule, it is quite contrary, for the more thou drinkeſt, <hi>tant o proprior es ad animae ſanitatem &amp; ſalutatem:</hi> thou art ſo much the néerer to the health, and welfare to thy ſoule. <hi>Caliſtenes</hi> ſaid to <hi>Alexander,</hi> that hee had rather carouſe old graines with <hi>Diogenes</hi> in his diſh, then new grapes with <hi>Alexander</hi> in his cup, for of all the goods (quoth hee), I loue not <hi>Aeſculapius.</hi> But whoſoe<g ref="char:EOLhyphen"/>euer drinketh in this cup, ſhall not need
+<pb facs="tcp:173514:16"/> 
+               <hi>Aeſculapius</hi> phyſicke, for it is a pre<g ref="char:EOLhyphen"/>ſent remedy, and a ſoueraigne re<g ref="char:EOLhyphen"/>ſtoratiue againſt the maladies of a ſinfull ſoule: it is an excellent po<g ref="char:EOLhyphen"/>tion, and a moſt wholſome purga<g ref="char:EOLhyphen"/>tion to expell the leproſie of a ſin<g ref="char:EOLhyphen"/>ſeared ſoule.</p>
+            <p>The precious ſtone Sandaſtra hath nothing in outward appea<g ref="char:EOLhyphen"/>rance, but being broken, it poureth forth beames like the Sunne: ſo this bread of life hath not an out<g ref="char:EOLhyphen"/>ward glea of ſuper-excellent good<g ref="char:EOLhyphen"/>neſſe, but taſt it, and then it pou<g ref="char:EOLhyphen"/>reth forth ſuch admirable excellen<g ref="char:EOLhyphen"/>cie, that thou ſhalt neuer hunger a<g ref="char:EOLhyphen"/>ny more. Therefore the ſhep<g ref="char:EOLhyphen"/>heards of Chriſts flocke, ſhould onely féed his Lambes with this bread of life.</p>
+            <p>When they bee hungry, they ſhould fill them with this Bread of life. They ſhould cry vnto them alwaies, Come vnto Chriſt, and he will giue you the bread of life, ſo that you ſhall neuer hunger or thirſt any more. The Miniſters
+<pb facs="tcp:173514:16"/> ſhould haue a continuall cry, not like the Swallowes, which haue <hi>matutinum cantum,</hi> a morning ſong, or as the Graſhoppers, <hi>me<g ref="char:EOLhyphen"/>ridianum cantum,</hi> a noone ſong, or as the Owles, <hi>veſpertinum can<g ref="char:EOLhyphen"/>tum,</hi> an euening ſong, or as the Cocks, <hi>antelucanum cantum,</hi> a ſong before morning: But they ſhould haue a morning ſong, a noone ſong, an euening ſong, and a ſong before day-light, to awake Chriſts ſlum<g ref="char:EOLhyphen"/>bring ſhéepe to come vnto Chriſt, and eate of this bread of life, ſo they ſhall neuer hunger for this more. <hi>Hee that commeth to mee ſhall not hunger, and he that belee<g ref="char:EOLhyphen"/>ueth in me, ſhall neuer thirſt.</hi>
+            </p>
+            <p>To beléeue in Chriſt, is the to<g ref="char:EOLhyphen"/>tall ſumme of all Chriſtian Reli<g ref="char:EOLhyphen"/>gion: For our faith in the death and paſſion of our Lord and Saui<g ref="char:EOLhyphen"/>our Ieſus Chriſt, is the ſure foun<g ref="char:EOLhyphen"/>dation of our ſaluation. <hi>Fides in Chriſto</hi> (ſaith Saint <hi>Ierome) <hi>eſt fundamentum humanae ſaluationis:</hi>
+               </hi> Faith in Chriſt is the foundation of
+<pb facs="tcp:173514:17"/> mans ſaluation: without this faith, all our vertuous actions, and good endeuours bee in vaine. So ſaith Saint <hi>Auguſtine, <hi>Sine fide falſa eſt omnis virtus,</hi>
+               </hi> without faith, all vertue is in vaine: <hi>Sine fid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> im<g ref="char:EOLhyphen"/>poſſibile eſt placere Deo,</hi> without faith it is impoſſible to pleaſe God: <hi>Sine fide omnis labor vacuus,</hi> without faith all our labour is fruſtrate. Faith is the porter of heauen gate, and not Saint <hi>Peter.</hi>
+            </p>
+            <p>Hée that hath faith, yea but as much as a graine of muſtard ſéed, ſhall be able to remoue mountains: Wherefore let vs labour to get this faith, which being obtained, we ſhal not néede any other treaſury: let vs lay vp this iewell in our hearts, which wil inrich vs euer after. The Anatomiſts ſay, that in the heart of man there is a little hole, which hath nothing in it. Whereupon a good writer ſaith, that this little Cabinet and Cell of the heart, God doth reſerue for himſelfe, to bee a Chamber, and a priuate manſion
+<pb facs="tcp:173514:17"/> for him to dwell, and kéepe therein: let vs therefore beſtow vpon our gratious Lord this pretious gem, this excellent ornament to adorne and beautifie this inward chamber: that when it ſhall pleaſe the Lord to call vs to the high Star-chamber ouer our heads, he may <hi>Antipelar<g ref="char:EOLhyphen"/>gein;</hi> that is, requite vs with farre more ſumptuous iewels, and richer ornaments, making vs cohabitors with Angels, and the admired pa<g ref="char:EOLhyphen"/>ragons of all perfection: let vs therefore confidently beléeue in Chriſt, deſiring him moſt heartily and vnfainedly, to giue vs of this bread of life, which is the onely re<g ref="char:EOLhyphen"/>ſtoratiue againſt hunger, &amp; thirſt. <hi>Auicen</hi> like a foole ſaid in his <hi>A<g ref="char:EOLhyphen"/>phoriſmes,</hi> that good was the beſt reſtoratiue. No, no, this bread of life, is the moſt heauenly remedy a<g ref="char:EOLhyphen"/>gainſt all diſeaſes: it is a poyſon for vice, but a life-giuing potion for vertue. It is the bread of death, for carnall gluttonie; but it is the bread of life, for ſpirituall hunger.
+<pb facs="tcp:173514:18"/> If thou béeſt famiſhed, eate of this bread, and it will reuiue thée; it can heale all leproſie of ſinne, and re<g ref="char:EOLhyphen"/>moue all maladies from a ſin-ſicke Soule: it is the Nectar of our ſal<g ref="char:EOLhyphen"/>uation, and the Lethe of our iniqui<g ref="char:EOLhyphen"/>ties: taſt but once of this bread of life, and thou ſhalt euer after loath the ſugered cates, and bewitching dainties of luſtfull affections: looke daily vpon this bread of life, and thou ſhalt euer after hide thine eyes, and ſtop thine eares, which are now captiued vaſſals to behold and heare the legerdemane of hu<g ref="char:EOLhyphen"/>mane iugling deſires: All Syren ſongs of carnall concupiſcence, and vices loue-lines, which are now im<g ref="char:EOLhyphen"/>printed in thy breſt, ſhall be quite cancelled out, after thou haſt once digeſted inwardly, and thy ſoule hath had an happy concoction of this bread of life: it purgeth all the hidden corruption of mans folly, and giueth working pils to vomit vp originall tranſgreſſions: it is the preſent remedie for a body,
+<pb facs="tcp:173514:18"/> which lieth in a conſumption of grace: to taſt of this bread of life, within a ſhort ſpace by the vnſpea<g ref="char:EOLhyphen"/>kable hidden operation, will make a bleſſed recouery for this langui<g ref="char:EOLhyphen"/>ſhing creature. If thy ſoule bee hungry or thirſty, behold two ſacra<g ref="char:EOLhyphen"/>mentall riuers flowing out of the Paradiſe of Chriſts body: in the one thou ſhalt finde this bread of life, in the other this water of life: taſt either of them, and thou ſhalt neuer hunger, or thirſt more: yea, the power of this bread cannot bee ſufficiently declared by the tongue of the worthieſt Orator. Where<g ref="char:EOLhyphen"/>fore let vs onely ſatisfie our ſoules with this bread of life, whoſe po<g ref="char:EOLhyphen"/>wer, and efficacie our dayly Ora<g ref="char:EOLhyphen"/>tor Chriſt Ieſus, hath declared vn<g ref="char:EOLhyphen"/>to vs in theſe words, <hi>He that com<g ref="char:EOLhyphen"/>meth to me ſhall not hunger, and he that beleeueth in mee ſhall neuer thirſt.</hi> Wherefore to draw to a concluſion, let vs from the bottome of our hearts, deſire Chriſt Ieſus euermore to giue vs of this bread,
+<pb facs="tcp:173514:19"/> that when the glaſſe of our life is runne out, and with the Pheni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we may diſcerne the tearme of our daies, and with the Swan diſco<g ref="char:EOLhyphen"/>uer our fatall end, that it would pleaſe him to féed our hungry ſoules with this ſpirituall food, this bread of life, and place them at his heauenly table, to ſatisfie them<g ref="char:EOLhyphen"/>ſelues<g ref="char:punc">▪</g> with this celeſtiall banquet: yea, when our breath vaniſheth, our eyes waxe dim, and we turned out of the houſe-roome of this tran<g ref="char:EOLhyphen"/>ſitory world, repaire vnto our doomeſday houſe, where the worms (the dead mens Lawyers) ſhall take their fées out of vs their graue clients, and our bodies ſhal be their bread to ſatiate their hunger, yet thou (O Ieſus) would vouchſafe to giue vs thy body, the only bread of life, for to nouriſh our hungry ſoules, that by the wings of a liuely faith we may fly vp to the heauens, and inioy that age of vnſpeakeable pleaſures: the eternall Father through the merits of his déereſt
+<pb facs="tcp:173514:19"/> Sonne, by the ſcepter of his holy Spirit, ſo rule our hearts, that wée being righteous as <hi>Elias,</hi> and our prayers feruent as thoſe of <hi>Elias,</hi> they may pierce the clouds, and o<g ref="char:EOLhyphen"/>pen heauen, and thence bring downe this bread of life, this dew of diuine grace, vpon vs, and ſatisfie our ſoules with this myſticall banquet of Chriſts body. O Lord inflame our tongues with the zeale of deuotion, that our pray<g ref="char:EOLhyphen"/>ers may be feruent, and may make a ſwéet incenſe to pacifie thy wrath, that thou blotting out all our vnworthineſſe out of thy me<g ref="char:EOLhyphen"/>mory, maiſt graciouſly hearken to our petitions, &amp; maiſt grant vs this ineſtimable treaſure, the price and ranſome of our ſoules redemption. If Lyons ſeeke their meat of God, if the Oxe know his owner, &amp; the Aſſe his Maſters crib, grant vs a moſt carefull deſire to craue this meat of our ſoules, &amp; to wait &amp; ſeeke for this bread of life, that we which were created by a conſultation of
+<pb facs="tcp:173514:20"/> the Deity, redéemed with the pre<g ref="char:EOLhyphen"/>tious blood of Chriſt, ſanctified by the holy Ghoſt, may bee partakers of this bleſſed bread of life, and in the end, and without all end, ſit at his heauenly table, raigning to<g ref="char:EOLunhyphen"/>gether with the Trinity in the Kingdome of Heauen: to which be all glory, power, praiſe, and dominion, both now, and for euermore.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="prayers">
+            <pb facs="tcp:173514:20"/>
+            <head>PRAYERS FOR PRIVATE HOVSHOLDS.</head>
+            <argument>
+               <p>O Lord prepare our hearts to pray.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">O</seg> Moſt mightie &amp; eternall GOD, who art the Creator, Gui<g ref="char:EOLhyphen"/>der, Gouernor, and Preſeruer of all thinges both in Heauen and Earth, vouchſafe we humbly be<g ref="char:EOLhyphen"/>ſeech thee, to looke downe with the eye of pity and compaſſion vp<g ref="char:EOLhyphen"/>on vs miſerable and wretched ſin<g ref="char:EOLhyphen"/>ners; who at this time are proſtrate here before thee, to offer vp this our Sacrifice of Prayer and Thankes<g ref="char:EOLhyphen"/>giuing
+<pb facs="tcp:173514:21"/> vnto thee. And although we be vnworthy, by reaſon or our manifold tranſgreſſions, to preſent our ſelues before thee: yet we hum<g ref="char:EOLhyphen"/>bly beſeech thee, for thy Sonne Chriſt Ieſus our bleſſed Lord and Sauiours ſake, to accept of vs, and to grant theſe our prayers and pe<g ref="char:EOLhyphen"/>titions which wee doe make vnto thee.</p>
+            <p>Wee render vnto thee LORD (moſt mighty and moſt mercifull) humble and hearty thanks for all thy bleſſings, and thy benefits from time to time beſtowed vpon vs; for our Election, Creation, Redempti<g ref="char:EOLhyphen"/>on, Vocation, Iuſtification, that mea<g ref="char:EOLhyphen"/>ſure of Sanctification in this life, and the aſſured hope of Glorification in the life to come: As alſo for our Health, Wealth, Peace and Proſpe<g ref="char:EOLhyphen"/>ritie, for the free paſſage of thy glo<g ref="char:EOLhyphen"/>rious Goſpell; for ſparing vs thus long, and giuing vs ſo large a time of Repentance; as alſo for all other thy benefits, whenſoeuer or howſo<g ref="char:EOLhyphen"/>euer beſtowed vpon vs: We giue
+<pb facs="tcp:173514:21"/> thee humble and harty thanks more particularly for thy gracious prote<g ref="char:EOLhyphen"/>ction of vs this day paſt, and deliue<g ref="char:EOLhyphen"/>ring vs from all the perills and dan<g ref="char:EOLhyphen"/>gers of the ſame. And ſeeing thou haſt brought, and kept vs ſafe to this preſent night, wee humbly be<g ref="char:EOLhyphen"/>ſeech thee LORD, to protect and keepe vs in the ſame: watch ouer vs with thy prouidence; Shelter and defend vs from all the aſſaults of the world, the Fleſh, and the De<g ref="char:EOLhyphen"/>uill. Keepe vs from all ſinne, eſpe<g ref="char:EOLhyphen"/>cially from thoſe ſinnes whereto by nature we are moſt addicted: Make vs ſorrowfull for our ſins paſt, and ſeale vnto our hearts, wee humbly beſeech thee, full aſſurance of the forgiueneſſe of them, in thy Sonne our Sauiour Ieſus Chriſt: Increaſe our faith, our zeale, and our know<g ref="char:EOLhyphen"/>ledge, and make vs dayly more and more to increaſe in piety, and true holineſſe. Set a watch O Lord be<g ref="char:EOLhyphen"/>fore the doore of our Hearts, that they thinke not; before the doore of our Lips, that they ſpeake not; before
+<pb facs="tcp:173514:22"/> all the parts of our body, that they doe not any thing which is amiſſe, or may breed offence. Bleſſe vs alſo wee beſeech thee, in our calling wherein thou haſt ſet vs: proſper that which thou haſt giuen vnto vs, and which in thy feare wee ſet our hands vnto. Stirre vs vp to imploy our ſelues faithfully, religiouſly, and induſtriouſly, in our calling: Giue vs all things needfull for this preſent life; and grant that wee may ſo paſſe through things temporall, that our affection by them may not bee with-drawne from things eternall. Theſe things and all other, which thou knoweſt meet and requiſite for vs, wee humbly craue at thy hands, in the name of thy Sonne our Lord and Sauiour Ieſus Chriſt, con<g ref="char:EOLhyphen"/>cluding theſe our Petitions with that forme of Prayer which him<g ref="char:EOLhyphen"/>ſelfe hath taught vs; ſaying: <hi>Our Father which art in heauen, &amp;c.</hi>
+            </p>
+            <div type="prayer">
+               <pb facs="tcp:173514:22"/>
+               <head>Another prayer.</head>
+               <p>O Mercifull Lord and louing Father, that of the incompre<g ref="char:EOLhyphen"/>henſible riches of thy mercy, to<g ref="char:EOLhyphen"/>wards the diſobedient and loſt chil<g ref="char:EOLhyphen"/>dren of <hi>Adam,</hi> (who ſeruing Satan after the blind and vnbridled luſts of the vile fleſh, whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e caried away through ſinne and ignorance to damnation) haſt reconciled vs to thy fauour through grace and adop<g ref="char:EOLhyphen"/>tion in Chriſt Ieſus the righteous, by faith and holy conuerſation: in whom wee are deliuered from eter<g ref="char:EOLhyphen"/>nall death and deſtruction: Haue mercy vpon vs, and for loue of thy ſweet Sonne our Redeemer, defend vs againſt the power of the deſtroy<g ref="char:EOLhyphen"/>er, and with thy mighty hand lift vs vp out of the filthy puddle, and deathfull corruption of this abho<g ref="char:EOLhyphen"/>minable world: purifying our hearts with thy grace that wee be<g ref="char:EOLhyphen"/>ing wholly inclined to thy heauen<g ref="char:EOLhyphen"/>ly deſires, may grow perfect in all
+<pb facs="tcp:173514:23"/> holines, and abounding in the good workes which thou haſt prepared for thy Saints to walke in, for the glorifying of thy name: wee may grow an acceptable Temple, for thy continuall dwelling in vs O Lord: to the vnſpeakeable peace and comfort, and the euerla<g ref="char:EOLhyphen"/>ſting bliſſe and ſaluation of our ſoules: through Chriſt our Sa<g ref="char:EOLhyphen"/>uiour, Amen.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:173514:23"/>
+               <pb facs="tcp:173514:24"/>
+               <pb facs="tcp:173514:24"/>
+               <pb facs="tcp:173514:25"/>
+               <pb facs="tcp:173514:25"/>
+               <pb facs="tcp:173514:26"/>
+               <pb facs="tcp:173514:26"/>
+               <pb facs="tcp:173514:27"/>
+               <pb facs="tcp:173514:27" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
